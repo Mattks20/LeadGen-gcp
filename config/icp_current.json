@@ -1,0 +1,42 @@
+{
+  "industry": "B2B SaaS",
+  "company_size": "10-500 employees",
+  "pain_points": [
+    "Manual lead qualification processes",
+    "High cost of traditional sales prospecting",
+    "Low conversion rates from cold outreach",
+    "Difficulty scaling sales operations"
+  ],
+  "decision_makers": [
+    "VP of Sales",
+    "Chief Revenue Officer",
+    "Head of Business Development",
+    "Sales Operations Manager"
+  ],
+  "geographic_focus": [
+    "United States",
+    "Canada",
+    "United Kingdom"
+  ],
+  "budget_range": "$5,000-$50,000 annually",
+  "tech_stack": [
+    "Salesforce",
+    "HubSpot",
+    "Outreach.io",
+    "Apollo.io",
+    "ZoomInfo"
+  ],
+  "buying_signals": [
+    "Recently hired sales leaders",
+    "Raised Series A/B funding",
+    "Posted job listings for SDRs",
+    "Mentioned sales challenges in public forums",
+    "Expanding to new markets"
+  ],
+  "metadata": {
+    "config_version": "1.0",
+    "last_updated": "2026-01-07",
+    "created_by": "Project Lumina Team",
+    "client": "Internal Demo"
+  }
+}

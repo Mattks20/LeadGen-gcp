@@ -1,0 +1,1 @@
+"Read CLAUDE.md. Based on our project vision, scaffold the folder structure and create a .claude.md file with rules for building a modular, multi-model lead gen engine. Then, help me set up the Google Sheets authentication logic."
